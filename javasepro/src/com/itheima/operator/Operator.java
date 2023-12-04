@@ -15,5 +15,6 @@ public class Operator {
         int d = 12;
         System.out.println(d + 'a');
         System.out.println(d + "a");
+        System.out.println(a % b);
     }
 }
